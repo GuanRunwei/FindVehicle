@@ -1,7 +1,7 @@
 # ***FindVehicle***
 ***FindVehicle***: A NER dataset in transportation to extract keywords describing vehicles on the road
 
-![test](https://github.com/GuanRunwei/FindVehicle/blob/main/images/ner_types.png =100x100)
+![test](https://github.com/GuanRunwei/FindVehicle/blob/main/images/ner_types.png){:height="100px" width="200px"}
 
 ## Dataset Download
 Data Link: [Baidu Cloud Disk](https://pan.baidu.com/s/1NIuDeeIba-eKU5WtIY44nQ)
