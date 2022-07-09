@@ -9,8 +9,8 @@ Password: tbr6
 ## Dataset Directory
 ***FindVehicle*** has 2 data formats, CoNLL-style and jsonlines. 
 ### CoNLL-style format
-  - FindVehicle_train.txt -> Train set, CoNLL-style Annotation, NER Label
-  - FindVehicle_test.txt -> Test set, CoNLL-style Annotation, NER Label
+  - FindVehicle_train.txt -> Train set, CoNLL-style annotation, NER Label
+  - FindVehicle_test.txt -> Test set, CoNLL-style annotation, NER Label
 
 *CoNLL-style Example (Flat Entity)*
 > I O  <br>
@@ -46,8 +46,8 @@ Password: tbr6
 
 
 ### jsonlines format
-  - FindVehicle_train.jsonl -> Train set, jsonlines format, NER Label, RE Label
-  - FindVehicle_test.jsonl -> Test set, jsonlines format, NER Label, RE Label
+  - FindVehicle_train.jsonl -> Train set, jsonlines annotation, NER Label, RE Label
+  - FindVehicle_test.jsonl -> Test set, jsonlines annotation, NER Label, RE Label
 
 *jsonlines Example*
 
@@ -63,5 +63,5 @@ Password: tbr6
 >     ["vehicle_model", 80, 91, "Trailblazer", 15, 16, ["Trailblazer"]],   <br>
 >     ["vehicle_location", 99, 110, "Bottom Left", 18, 20, ["Bottom", "Left"]],   <br>
 >     ["vehicle_orientation", 99, 105, "Bottom", 18, 19, ["Bottom"]]],   <br>
->     "re_label": [[0, 1, 2, 6, 7], [3, 4, 5, 6, 7]]  <br>
+>     "re_label": [[0, 1, 2, 6, 7], [3, 4, 5, 6, 7]]  <br> ### the indexes 0,1,2,6,7 refer to one target, indexes 3,4,5,6,7 refer to one target.
 > }
