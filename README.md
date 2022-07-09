@@ -13,9 +13,13 @@ Password: tbr6
   - FindVehicle_test.txt -> Test set, CoNLL-style Annotation, NER Label
 
 > CoNLL-style Example (Flat Entity)
+> 
 > I O
+> 
 > am O
+> 
 > looking O
+> 
 > for O
 > a O
 > white B-vehicle_color
