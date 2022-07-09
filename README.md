@@ -12,61 +12,38 @@ Password: tbr6
   - FindVehicle_train.txt -> Train set, CoNLL-style Annotation, NER Label
   - FindVehicle_test.txt -> Test set, CoNLL-style Annotation, NER Label
 
-> CoNLL-style Example (Flat Entity)  <br>
-> I O
-> am O
-> 
-> looking O
-> 
-> for O
-> 
-> a O
-> 
-> white B-vehicle_color
-> 
-> sedan B-vehicle_type
-> 
-> . O
+*CoNLL-style Example (Flat Entity)*
+> I O  <br>
+> am O <br>
+> looking O  <br>
+> for O  <br>
+> a O  <br>
+> white B-vehicle_color  <br>
+> sedan B-vehicle_type  <br>
+> . O  <br>
 
-> CoNLL-style Example (Overlapped Entity)
-> 
-> I O
-> 
-> am O
-> 
-> looking O
-> 
-> for O
-> 
-> a O
-> 
-> white B-vehicle_color
-> 
-> Audi B-vehicle_brand
-> 
-> Q7 B-vehicle_model
-> 
-> . O
+> *CoNLL-style Example (Overlapped Entity)*
+> I O  <br>
+> am O  <br>
+> looking O  <br>
+> for O  <br>
+> a O  <br>
+> white B-vehicle_color  <br>
+> Audi B-vehicle_brand  <br>
+> Q7 B-vehicle_model  <br>
+> . O  <br>
 > 
 >===========
 >
-> I O
-> 
-> am O
-> 
-> looking O
->
-> for O
-> 
-> a O
-> 
-> white B-vehicle_color
-> 
-> Audi B-vehicle_type-suv
-> 
-> Q7 E-vehicle_type-suv
-> 
-> . O
+> I O  <br>
+> am O  <br>
+> looking O  <br>
+> for O  <br>
+> a O  <br>
+> white B-vehicle_color  <br>
+> Audi B-vehicle_type-suv  <br>
+> Q7 E-vehicle_type-suv  <br>
+> . O  <br>
 
 
 
