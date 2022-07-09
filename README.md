@@ -50,6 +50,9 @@ Password: tbr6
 ### jsonlines format
   - FindVehicle_train.jsonl -> Train set, jsonlines annotation, NER Label, RE Label
   - FindVehicle_test.jsonl -> Test set, jsonlines annotation, NER Label, RE Label
+ 
+Install *jsonlines*, then you could read it.
+ > pip install jsonlines
 
 *jsonlines Example*
 
