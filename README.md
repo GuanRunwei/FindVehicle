@@ -55,7 +55,7 @@ Password: tbr6
     "id": 41628,  <br>
     "data": "Let the clever boy help find out the Silver XPeng G3 and lemon yellow Chevrolet Trailblazer in the Bottom Left of the image that driven left .",   <br>
     "ner_label": [  <br>
-    ["vehicle_color", 37, 43, "Silver", 8, 9, ["Silver"]],  # label, char span start index, char span end index, char span check, token span start index, token span end index, token span check <br>
+    ["vehicle_color", 37, 43, "Silver", 8, 9, ["Silver"]],  ### label, char span start index, char span end index, char span check, token span start index, token span end index, token span check <br>
     ["vehicle_brand", 44, 49, "XPeng", 9, 10, ["XPeng"]],   <br>
     ["vehicle_model", 50, 52, "G3", 10, 11, ["G3"]],   <br>
     ["vehicle_color", 57, 69, "lemon yellow", 12, 14, ["lemon", "yellow"]],   <br>
