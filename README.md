@@ -21,30 +21,53 @@ Password: tbr6
 > looking O
 > 
 > for O
+> 
 > a O
+> 
 > white B-vehicle_color
+> 
 > sedan B-vehicle_type
+> 
 > . O
 
 > CoNLL-style Example (Overlapped Entity)
+> 
 > I O
+> 
 > am O
+> 
 > looking O
+> 
 > for O
+> 
 > a O
+> 
 > white B-vehicle_color
+> 
 > Audi B-vehicle_brand
+> 
 > Q7 B-vehicle_model
+> 
 > . O
+> 
 >===========
+>
 > I O
+> 
 > am O
+> 
 > looking O
+>
 > for O
+> 
 > a O
+> 
 > white B-vehicle_color
+> 
 > Audi B-vehicle_type-suv
+> 
 > Q7 E-vehicle_type-suv
+> 
 > . O
 
 
