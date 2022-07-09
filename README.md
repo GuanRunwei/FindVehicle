@@ -51,17 +51,17 @@ Password: tbr6
 
 *jsonlines Example*
 
-{
-    "id": 41628,
-    "data": "Let the clever boy help find out the Silver XPeng G3 and lemon yellow Chevrolet Trailblazer in the Bottom Left of the image that driven left .", 
-    "ner_label": [
+{ <br>
+    "id": 41628,  <br>
+    "data": "Let the clever boy help find out the Silver XPeng G3 and lemon yellow Chevrolet Trailblazer in the Bottom Left of the image that driven left .",   <br>
+    "ner_label": [  <br>
     ["vehicle_color", 37, 43, "Silver", 8, 9, ["Silver"]],  # label, char span start index, char span end index, char span check, token span start index, token span end index, token span check <br>
-    ["vehicle_brand", 44, 49, "XPeng", 9, 10, ["XPeng"]], 
-    ["vehicle_model", 50, 52, "G3", 10, 11, ["G3"]], 
-    ["vehicle_color", 57, 69, "lemon yellow", 12, 14, ["lemon", "yellow"]], 
-    ["vehicle_brand", 70, 79, "Chevrolet", 14, 15, ["Chevrolet"]], 
-    ["vehicle_model", 80, 91, "Trailblazer", 15, 16, ["Trailblazer"]], 
-    ["vehicle_location", 99, 110, "Bottom Left", 18, 20, ["Bottom", "Left"]], 
-    ["vehicle_orientation", 99, 105, "Bottom", 18, 19, ["Bottom"]]], 
-    "re_label": [[0, 1, 2, 6, 7], [3, 4, 5, 6, 7]]
+    ["vehicle_brand", 44, 49, "XPeng", 9, 10, ["XPeng"]],   <br>
+    ["vehicle_model", 50, 52, "G3", 10, 11, ["G3"]],   <br>
+    ["vehicle_color", 57, 69, "lemon yellow", 12, 14, ["lemon", "yellow"]],   <br>
+    ["vehicle_brand", 70, 79, "Chevrolet", 14, 15, ["Chevrolet"]],   <br>
+    ["vehicle_model", 80, 91, "Trailblazer", 15, 16, ["Trailblazer"]],   <br>
+    ["vehicle_location", 99, 110, "Bottom Left", 18, 20, ["Bottom", "Left"]],   <br>
+    ["vehicle_orientation", 99, 105, "Bottom", 18, 19, ["Bottom"]]],   <br>
+    "re_label": [[0, 1, 2, 6, 7], [3, 4, 5, 6, 7]]  <br>
 }
