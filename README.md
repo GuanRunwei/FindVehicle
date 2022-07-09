@@ -48,12 +48,19 @@ Password: tbr6
 ### jsonlines format
   - FindVehicle_train.jsonl -> Train set, jsonlines format, NER Label, RE Label
   - FindVehicle_test.jsonl -> Test set, jsonlines format, NER Label, RE Label
-  
-![test](https://github.com/GuanRunwei/FindVehicle/blob/main/images/ner_annotation_format.png)
 
 *jsonlines Example*
-"ner_label":[
-              [
-                 label, char span start index, char span end index, char span check, token span start index, token span end index, token span check
-              ]
-            ]
+{
+    "id": 41628,
+    "data": "Let the clever boy help find out the Silver XPeng G3 and lemon yellow Chevrolet Trailblazer in the Bottom Left of the image that driven left .", 
+    "ner_label": [
+    ["vehicle_color", 37, 43, "Silver", 8, 9, ["Silver"]],  # label, char span start index, char span end index, char span check, token span start index, token span end index, token span check <br>
+    ["vehicle_brand", 44, 49, "XPeng", 9, 10, ["XPeng"]], 
+    ["vehicle_model", 50, 52, "G3", 10, 11, ["G3"]], 
+    ["vehicle_color", 57, 69, "lemon yellow", 12, 14, ["lemon", "yellow"]], 
+    ["vehicle_brand", 70, 79, "Chevrolet", 14, 15, ["Chevrolet"]], 
+    ["vehicle_model", 80, 91, "Trailblazer", 15, 16, ["Trailblazer"]], 
+    ["vehicle_location", 99, 110, "Bottom Left", 18, 20, ["Bottom", "Left"]], 
+    ["vehicle_orientation", 99, 105, "Bottom", 18, 19, ["Bottom"]]], 
+    "re_label": [[0, 1, 2, 6, 7], [3, 4, 5, 6, 7]]
+}
