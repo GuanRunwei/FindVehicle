@@ -22,7 +22,7 @@ Password: tbr6
 > sedan B-vehicle_type  <br>
 > . O  <br>
 
-> *CoNLL-style Example (Overlapped Entity)*
+*CoNLL-style Example (Overlapped Entity)*
 > I O  <br>
 > am O  <br>
 > looking O  <br>
