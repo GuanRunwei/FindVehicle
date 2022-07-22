@@ -70,3 +70,12 @@ Install *jsonlines*, then you could read it.
 >     ["vehicle_orientation", 99, 105, "Bottom", 18, 19, ["Bottom"]]],   <br>
 >     "re_label": [[0, 1, 2, 6, 7], [3, 4, 5, 6, 7]]  <br> ### the indexes 0,1,2,6,7 refer to one target, indexes 3,4,5,6,7 refer to one target.
 > }
+
+### Contributors
+* Runwei Guan(email)[runwei.guan@liverpool.ac.uk], University of Liverpool, XJTLU-JITRI, IDPT
+* Feifan Chen, University of Liverpool, XJTLU
+* Rongsheng Hu, Kunming University of Science and Technology
+* Shanliang Yao, University of Liverpool, XJTLU-JITRI, IDPT
+* Zhou Yuan, University of Bristol
+* Sihao Dai, University of Southampton
+* Wenjie Zhou, Jiangyin Baoneng Precision New Material Co.,Ltd
