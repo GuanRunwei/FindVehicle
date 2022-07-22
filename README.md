@@ -72,7 +72,7 @@ Install *jsonlines*, then you could read it.
 > }
 
 ### Contributors
-* Runwei Guan(email)[runwei.guan@liverpool.ac.uk], University of Liverpool, XJTLU-JITRI, IDPT
+* Runwei Guan[email](runwei.guan@liverpool.ac.uk), University of Liverpool, XJTLU-JITRI, IDPT
 * Feifan Chen, University of Liverpool, XJTLU
 * Rongsheng Hu, Kunming University of Science and Technology
 * Shanliang Yao, University of Liverpool, XJTLU-JITRI, IDPT
