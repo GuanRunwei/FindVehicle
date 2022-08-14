@@ -1,5 +1,5 @@
 # ***FindVehicle***
-***FindVehicle***: A NER dataset in transportation to extract keywords describing vehicles on the road
+***FindVehicle***: A NER dataset for natural language-based vehicle retrieval
 
 <img src="https://github.com/GuanRunwei/FindVehicle/blob/main/images/ner_types.png" width = "700" height = "360" alt="Entity Types of FindVehicle" align=center />
 
