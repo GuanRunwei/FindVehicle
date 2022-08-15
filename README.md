@@ -72,10 +72,11 @@ Install *jsonlines*, then you could read it.
 > }
 
 ### Contributors
-* Runwei Guan [[email]](runwei.guan@liverpool.ac.uk), University of Liverpool, XJTLU-JITRI, IDPT
+* Runwei Guan [[email]](runwei.guan@liverpool.ac.uk), University of Liverpool, XJTLU-JITRI, Institute of Deep Perception Technology
 * Feifan Chen [[email]](sgfchen5@liverpool.ac.uk), University of Liverpool, XJTLU
 * Rongsheng Hu [[email]](1033170432@stu.jiangnan.edu.cn), Jiangnan University
-* Shanliang Yao [[email]](shanliang.yao@liverpool.ac.uk), University of Liverpool, XJTLU-JITRI, IDPT
+* Shanliang Yao [[email]](shanliang.yao@liverpool.ac.uk), University of Liverpool, XJTLU-JITRI, Institute of Deep Perception Technology
 * Zhou Yuan [[email]](peter.yuan70@gmail.com), University of Bristol
 * Sihao Dai [[email]](daisihao0812@hotmail.com), University of Southampton
 * Wenjie Zhou [[email]](Zhou-wenjie-jay@hotmail.com), Jiangyin Baoneng Precision New Material Co.,Ltd
+
