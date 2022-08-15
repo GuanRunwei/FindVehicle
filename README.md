@@ -80,3 +80,9 @@ Install *jsonlines*, then you could read it.
 * Sihao Dai [[email]](daisihao0812@hotmail.com), University of Southampton
 * Wenjie Zhou [[email]](Zhou-wenjie-jay@hotmail.com), Jiangyin Baoneng Precision New Material Co.,Ltd
 
+### Supervisors
+* Prof. Ka Lok Man, XJTLU
+* Dr. Yutao Yue, Institute of Deep Perception Technology, JITRI
+* Prof. Eng Gee Lim, XJTLU
+* Prof. Jeremy Smith, University of Liverpool
+
