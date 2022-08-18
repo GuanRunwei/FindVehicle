@@ -1,7 +1,7 @@
 # ***FindVehicle***
 ***FindVehicle***: A NER dataset for natural language-based vehicle retrieval
 ______________________________________________________________________________
-Any problem please send it in Issues.
+
 
 <img src="https://github.com/GuanRunwei/FindVehicle/blob/main/images/ner_types.png" width = "700" height = "360" alt="Entity Types of FindVehicle" align=center />
 
@@ -82,3 +82,4 @@ Install *jsonlines*, then you could read it.
 * Sihao Dai [[email]](daisihao0812@hotmail.com), University of Southampton
 * Wenjie Zhou [[email]](Zhou-wenjie-jay@hotmail.com), Jiangyin Baoneng Precision New Material Co.,Ltd
 
+Notes: Any problem please send them in Issues.
