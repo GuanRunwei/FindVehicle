@@ -1,5 +1,7 @@
 # ***FindVehicle***
 ***FindVehicle***: A NER dataset for natural language-based vehicle retrieval
+______________________________________________________________________________
+Any problem please send it in Issues.
 
 <img src="https://github.com/GuanRunwei/FindVehicle/blob/main/images/ner_types.png" width = "700" height = "360" alt="Entity Types of FindVehicle" align=center />
 
