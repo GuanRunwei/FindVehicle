@@ -9,9 +9,11 @@ ______________________________________________________________________________
 <img src="https://github.com/GuanRunwei/FindVehicle/blob/main/images/ner_types.png" width = "700" height = "360" alt="Entity Types of FindVehicle" align=center />
 
 ## Dataset Download
-Data Link: [Baidu Cloud Disk](https://pan.baidu.com/s/1NIuDeeIba-eKU5WtIY44nQ)
+Data Link 1: [Baidu Cloud Disk](https://pan.baidu.com/s/1NIuDeeIba-eKU5WtIY44nQ)
 
 Password: tbr6
+
+Data Link 2: [Google Drive](https://drive.google.com/drive/folders/1mQWtY647FgSSUWke4yGwNhYAh1G7b6ei?usp=sharing)
 
 ## Dataset Directory
 ***FindVehicle*** has 2 data formats, CoNLL-style and jsonlines. 
