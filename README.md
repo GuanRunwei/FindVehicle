@@ -85,5 +85,16 @@ Install *jsonlines*, then you could read it.
 * Sihao Dai [[email]](daisihao0812@hotmail.com), University of Southampton
 * Wenjie Zhou [[email]](Zhou-wenjie-jay@hotmail.com), Jiangyin Baoneng Precision New Material Co.,Ltd
 
+### Citation
+```
+@misc{guan2023findvehicle,
+      title={FindVehicle and VehicleFinder: A NER dataset for natural language-based vehicle retrieval and a keyword-based cross-modal vehicle retrieval system}, 
+      author={Runwei Guan and Ka Lok Man and Feifan Chen and Shanliang Yao and Rongsheng Hu and Xiaohui Zhu and Jeremy Smith and Eng Gee Lim and Yutao Yue},
+      year={2023},
+      eprint={2304.10893},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
 __________________________________________________
 Notes: Any problem please send them in Issues.
