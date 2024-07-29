@@ -87,13 +87,15 @@ Install *jsonlines*, then you could read it.
 
 ### Citation
 ```
-@misc{guan2023findvehicle,
-      title={FindVehicle and VehicleFinder: A NER dataset for natural language-based vehicle retrieval and a keyword-based cross-modal vehicle retrieval system}, 
-      author={Runwei Guan and Ka Lok Man and Feifan Chen and Shanliang Yao and Rongsheng Hu and Xiaohui Zhu and Jeremy Smith and Eng Gee Lim and Yutao Yue},
-      year={2023},
-      eprint={2304.10893},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{guan2024findvehicle,
+  title={FindVehicle and VehicleFinder: a NER dataset for natural language-based vehicle retrieval and a keyword-based cross-modal vehicle retrieval system},
+  author={Guan, Runwei and Man, Ka Lok and Chen, Feifan and Yao, Shanliang and Hu, Rongsheng and Zhu, Xiaohui and Smith, Jeremy and Lim, Eng Gee and Yue, Yutao},
+  journal={Multimedia Tools and Applications},
+  volume={83},
+  number={8},
+  pages={24841--24874},
+  year={2024},
+  publisher={Springer}
 }
 ```
 __________________________________________________
